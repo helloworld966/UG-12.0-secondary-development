@@ -1,0 +1,6 @@
+﻿  create_block.cpp
+d:\ug-12\ug-12.0\ugopen\nxopen\nxexception.hxx(27): warning C4275: 非 dll 接口 class“std::exception”用作 dll 接口 class“NXOpen::NXException”的基
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\include\vcruntime_exception.h(44): note: 参见“std::exception”的声明
+  d:\ug-12\ug-12.0\ugopen\nxopen\nxexception.hxx(26): note: 参见“NXOpen::NXException”的声明
+    正在创建库 C:\Users\admin\source\repos\create_block\x64\Debug\/create_block.lib 和对象 C:\Users\admin\source\repos\create_block\x64\Debug\/create_block.exp
+  create_block.vcxproj -> C:\Users\admin\source\repos\create_block\x64\Debug\create_block.dll
